@@ -8,7 +8,7 @@ Decidi fazer algumas alterações no arquivo da [Camila](https://www.linkedin.co
 
 Acompanhei as aulas enquanto construía o arquivo original do [repositório anterior](https://github.com/Tatirondoni/desafio-poo-dio.git), que commitei a pouco. Mas conforme orienta o desafio, repeti a ação através do Fork e realizei testes na funcionalidade. 
 
-Agradeço a oportunidade do aprendizado e deixo abaixo, a descrição do passo-a-passo original desde desafio do Bootcamp Code Girls, a quem interessar. 
+Agradeço a oportunidade do aprendizado e deixo abaixo, a descrição do passo-a-passo original deste desafio do Bootcamp Code Girls, a quem interessar. 
 
 Att, :cherry_blossom: [Tatiane Rondoni](https://github.com/Tatirondoni)
 
