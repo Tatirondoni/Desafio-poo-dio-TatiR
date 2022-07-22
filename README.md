@@ -1,3 +1,31 @@
+## Desafio: Aprenda na Prática Programação Orientada a Objetos :computer::space_invader: 
+
+
+
+Olá pessoal! :smiley:
+
+Decidi fazer algumas alterações no arquivo da [Camila](https://www.linkedin.com/in/cami-la/ "Camila") para testar as funcionalidades da POO. 
+
+Acompanhei as aulas enquanto construía o arquivo original do [repositório anterior](https://github.com/Tatirondoni/desafio-poo-dio.git), que commitei a pouco. Mas conforme orienta o desafio, repeti a ação através do Fork e realizei testes na funcionalidade. 
+
+Agradeço a oportunidade do aprendizado e deixo abaixo, a descrição do passo-a-passo original desde desafio do Bootcamp Code Girls, a quem interessar. 
+
+Att, :cherry_blossom: [Tatiane Rondoni](https://github.com/Tatirondoni)
+
+
+
+![alt text](https://64.media.tumblr.com/c0481dfd263209584ece4713009a8154/aeacc5b5b25ac3f2-e6/s640x960/b9e7f1c0d9c990cb99199aaacc73e8526da128a3.gifv)
+
+
+
+
+
+____
+
+____
+
+____
+
 <h1> Desafio: Aprenda na Prática Programação Orientada a Objetos</h1>
 
 <p> Sejam bem-vindos ao desafio: <strong>APRENDENDO NA PRÁTICA O PARADIGMA DE ORIENTAÇÃO A OBJETOS.</strong><br>Desafio este que tive a honra de co-criar com a plataforma de cursos online <strong><a href="https://web.digitalinnovation.one/">DIGITAL INNOVATION ONE</a></strong> 💛🧡 e disponibilizado de forma gratuita para a comunidade dos desenvolvedores Java.<br>
