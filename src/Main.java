@@ -18,14 +18,14 @@ public class Main {
         curso2.setCargaHoraria(6);
 
         Curso curso3 = new Curso();
-        curso2.setTitulo("Curso SQL");
-        curso2.setDescricao("Descrição curso Banco de dados Relacional(SQL)");
-        curso2.setCargaHoraria(10);
+        curso3.setTitulo("Curso SQL");
+        curso3.setDescricao("Descrição curso Banco de dados Relacional(SQL)");
+        curso3.setCargaHoraria(10);
 
         Curso curso4 = new Curso();
-        curso2.setTitulo("Curso Pensamento Computacional");
-        curso2.setDescricao("Descrição curso Pensamento Computacional");
-        curso2.setCargaHoraria(15);
+        curso4.setTitulo("Curso Pensamento Computacional");
+        curso4.setDescricao("Descrição curso Pensamento Computacional");
+        curso4.setCargaHoraria(15);
 
         Mentoria mentoria = new Mentoria();
         mentoria.setTitulo("Mentoria de JAVA");
